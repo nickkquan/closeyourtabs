@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-> You can download the accompanying Chrome Extension [here](https://github.com/andreasandpiper/closeyourtabs-chrome-extension) and visit the accompanying web application [here](http://www.closeyourtabs.com).
+> You can download the accompanying Chrome Extension [here](https://chrome.google.com/webstore/detail/close-your-tabs/nlgenhmcakjpnmgnplkiomeiniklmfkc) and visit the accompanying web application [here](http://www.closeyourtabs.com).
 
 ## Screenshots
 
@@ -15,33 +15,32 @@
 | ![Dashboard](client/src/assets/images/closeyourtabs3.png) | ![About Page](client/src/assets/images/closeyourtabs4.png) |
 | :-------------------------------------------------------: | :--------------------------------------------------------: |
 
+
 ## Technologies Used
 
-* Amazon Web Services (AWS)
-* Axios 
-* Chrome Platform API
-* Chrome Extension 
-* CSS3
-* Express
-* Flexbox
-* Google OAuth
-* HTML5
-* JavaScript
-* MySQL
-* NodeJS
-* Passport
-* ReactJS
-* React Router DOM
-
+*   Amazon Web Services (AWS)
+*   Axios
+*   Chrome Platform API
+*   Chrome Extension
+*   CSS3
+*   Express
+*   Flexbox
+*   Google OAuth
+*   HTML5
+*   JavaScript
+*   MySQL
+*   NodeJS
+*   Passport
+*   ReactJS
+*   React Router DOM
 
 ## Tools Used
 
-* Chrome Development Tools
-* Git
-* GitHub
-* JSDoc
-* Meistertask
-
+*   Chrome Development Tools
+*   Git
+*   GitHub
+*   JSDoc
+*   Meistertask
 
 ## Team Members
 
